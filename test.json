@@ -1,4 +1,5 @@
-[{
+[
+   {
         id: "01",
         year: 2019,
         place: "Emmanuel School",
@@ -284,4 +285,5 @@
         place: "psg college SRiSHTi 2k24",
         date: "5th  October 2024",
         desc: "100 + students",
-    },]
+    },
+]
